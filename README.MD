@@ -33,4 +33,4 @@ Dados carregados via JSON: <br>
 } <br>
 
 ## Desenvolvido por:
-Diogo A. C. Leite - Tempo de desenvolvimento aprox: 05:20h
+Diogo A. C. Leite - Tempo de desenvolvimento aprox: 05:50h
