@@ -53,7 +53,7 @@
             <h4>Passo a passo</h4>
             <ul>
                 <?php
-                $i = 0;
+                $i = 0; // <- Maaneira mais simples que eu encontrei para buscar as fotos sem criar um loop dentro de outro loop //
                 foreach($receitaSelecionada['passo-a-passo'] as $passo ){
                     echo "<li>" . "<img src='" . $receitaSelecionada['imagens-url'][$i] . "'/>" . $passo . "</li>";
                     $i++;
