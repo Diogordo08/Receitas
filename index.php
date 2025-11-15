@@ -28,7 +28,8 @@
         }
     ?>
     <header class="banner">
-        <img src="<?php echo $receitaSelecionada['banner']; ?>">
+        <a href="index.php" class="btnVoltar">Voltar</a>
+        <img src="<?php echo $receitaSelecionada['thumbnail']; ?>">
         <h1><?php echo $receitaSelecionada['titulo'];?></h1>
     </header>
 
@@ -78,12 +79,31 @@
     </header>
     <hr>
     <main>
+        <div class="busca">
+            <a href="index.php" class="btn">Limpar pesquisa</a>
+            <form action="index.php" method="get">
+                <input type="text" name="busca" placeholder="Nome da receita ou ingrediente..." class="input" required>
+                <button type="submit" class="btn">Buscar</button>
+            </form>
+        </div>
         <div class="cards">
             <?php
+                $busca = $_GET['busca'] ?? null;
+
+                if($busca){
+                    $busca = strtolower($busca);
+                    $receitas = array_filter($receitas, function($r) use ($busca) {
+                        $titulo = strtolower($r['titulo']);
+                        $tags = strtolower(implode(" ", $r['tags']));
+
+                        return strpos($titulo, $busca) !== false || strpos($tags, $busca) !== false;
+                    }); // Precisei do chatGPT pra acertar a sintaxe, mas usei a lógica igual a uma arrow function do JS //
+                }
+
                 foreach($receitas as $receita){
                     echo "
                     <div class='card'>
-                        <img src='" . $receita['banner'] . "'>
+                        <img src='" . $receita['thumbnail'] . "'>
                         <div class='cardConteudo'>
                             <h4>" . $receita['titulo'] . "</h4>
                             <p>" . $receita['desc'] . "</p>

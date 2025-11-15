@@ -2,6 +2,12 @@
     {
     "id": 1,
     "titulo": "Mousse de limão",
+    "tags": [
+        "limão",
+        "leite",
+        "leite condensado",
+        "doce"
+    ],
     "desc": "Cremoso, leve e refrescante, feito com poucos ingredientes e pronto em minutos.",
     "ingredientes": [
         "1 lata de creme de leite sem soro",
@@ -15,7 +21,7 @@
         "Desligue o liquidificador e transfira a mistura cremosa para uma travessa. Leve para a geladeira por, pelo menos, 2 horas, ou até a mousse ganhar consistência",
         "Decore a sua mousse com as raspas de limão por cima. Sirva essa irresistível sobremesa de limão para a família após o almoço ou jantar. Bom apetite"
     ],
-    "banner": "https://www.receiteria.com.br/wp-content/uploads/mousse-de-limao-rapido.jpeg",
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/mousse-de-limao-rapido.jpeg",
     "imagens-url": [
         "https://www.receiteria.com.br/wp-content/uploads/mousse-de-limao-rapido-01-730x548.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/mousse-de-limao-rapido-02-730x548.jpeg",
@@ -27,6 +33,14 @@
     {
     "id": 2,
     "titulo": "Pudim de leite condensado",
+    "tags": [
+        "leite",
+        "leite condensado",
+        "açucar",
+        "ovo",
+        "ovos",
+        "doce"
+    ],
     "desc": "Clássico, macio e irresistível, com textura aveludada e sabor que derrete na boca.",
     "ingredientes": [
         "1 xícara de chá de açúcar",
@@ -46,7 +60,7 @@
         "Depois, retire do forno, aguarde o pudim amornar e leve para a geladeira por pelo menos 2 horas, ou até ficar firme",
         "Passe a faca no meio e nas laterais da forma para desgrudar o pudim. Se necessário, leve a forma na boca do fogão para derreter rapidamente o caramelo e o pudim desenformar facilmente. Desforme em um prato grande ou boleira. Sirva e bom apetite"
     ],
-    "banner": "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-capa.jpeg",
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-capa.jpeg",
     "imagens-url": [
         "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-001-730x546.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-002-730x546.jpeg",
@@ -62,6 +76,15 @@
     {
     "id": 3,
     "titulo": "Moça gelada",
+    "tags": [
+        "leite condensado",
+        "creme de leite",
+        "leite condensado",
+        "leite em pó",
+        "chantily",
+        "chocolate",
+        "doce"
+    ],
     "desc": "Geladinho, doce na medida certa e super cremoso, perfeito para refrescar e matar a vontade de sobremesa.",
     "ingredientes": [
         "1 e 1/2 caixinha de leite condensado",
@@ -85,7 +108,7 @@
         "Derreta o chocolate, passe para um saquinho, corte a ponta e decore a sobremesa",
         "Finalize com o Kinder por cima e sirva. Bom apetite"
     ],
-    "banner": "https://www.receiteria.com.br/wp-content/uploads/sobremesa-moca-gelada.jpeg",
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/sobremesa-moca-gelada.jpeg",
     "imagens-url": [
         "https://www.receiteria.com.br/wp-content/uploads/sobremesa-moca-gelada-01-730x548.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/sobremesa-moca-gelada-02-730x548.jpeg",
@@ -103,6 +126,16 @@
     {
         "id": 4,
     "titulo": "Bolo de cenoura",
+    "tags": [
+        "cenoura",
+        "chocolate",
+        "creme de leite",
+        "açucar",
+        "farinha",
+        "ovo",
+        "ovos",
+        "doce"
+    ],
     "desc": "Fofo, úmido e saboroso, com aquele gostinho caseiro que combina perfeitamente com a cobertura de chocolate.",
     "ingredientes": [
         "1 xícara e meia de cenoura picada (220 gramas)",
@@ -125,7 +158,7 @@
         "Despeje o creme de leite e misture bem para incorporar os ingredientes. Leve ao micro-ondas por mais 30 segundos. Retire e misture bem",
         "Quando o bolo estiver morno, desenforme e cubra-o com a calda de chocolate. Está prontinho! Se quiser ainda mais chocolate, vale salpicar granulado em cima da cobertura."
     ],
-    "banner": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-rapido-capa-0.jpg",
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-rapido-capa-0.jpg",
     "imagens-url": [
         "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-rapido-01-730x548.jpg",
         "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-rapido-02-730x548.jpg",
@@ -140,6 +173,15 @@
     {
         "id": 5,
     "titulo": "Bolinho de chuva",
+    "tags": [
+        "açucar",
+        "leite",
+        "fermento",
+        "canela",
+        "ovo",
+        "ovos",
+        "doce"
+    ],
     "desc": "Quentinho, macio e açucarado, com sabor nostálgico que lembra tardes simples e deliciosas.",
     "ingredientes": [
         "2 ovos médios",
@@ -160,10 +202,10 @@
         "Leve uma panela ao fogo médio e esquente o óleo",
         "Molde os bolinhos com a ajuda de duas colheres e coloque-os para fritar",
         "Deixe fritar até ficarem bem douradinhos, e então, transfira-os para um prato com papel-toalha",
-        "Passe os bolinhos na mistura de açúcar e canela e sirva-os em seguida;",
+        "Passe os bolinhos na mistura de açúcar e canela e sirva-os em seguida",
         "Agora é só servir. Bom apetite!"
     ],
-    "banner": "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-capa.png",
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-capa.png",
     "imagens-url": [
         "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-simples-e-sequinho-01-730x548.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-simples-e-sequinho-02-730x548.jpeg",
@@ -175,6 +217,42 @@
         "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-simples-e-sequinho-08-730x548.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-simples-e-sequinho-09-730x548.jpeg",
         "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-simples-e-sequinho-10-730x548.jpeg"
+    ]
+    },
+    {
+    "id": 6,
+    "titulo": "Mousse de chocolate",
+    "tags": [
+        "chocolate",
+        "creme de leite",
+        "ovo",
+        "ovos",
+        "doce"
+    ],
+    "desc": "Quentinho, macio e açucarado, com sabor nostálgico que lembra tardes simples e deliciosas.",
+    "ingredientes": [
+        "170 gramas de chocolate ao leite",
+        "1 caixinha de creme de leite (200 gramas)",
+        "3 claras"
+    ],
+    "passo-a-passo": [
+        "Reúna todos os ingredientes da mousse de chocolate",
+        "Em um recipiente, coloque o chocolate e derreta em banho-maria ou no micro-ondas (de 30 em 30 segundos)",
+        "Assim que o chocolate estiver totalmente derretido, acrescente o creme de leite e misture até obter uma ganache de chocolate",
+        "Em uma batedeira ou à mão, bata as claras de ovo até obter as claras em neve",
+        "Depois, adicione as claras em neve ao recipiente com a ganache de chocolate. Misture delicadamente, fazendo movimento circulares, até obter um creme homogêneo",
+        "Transfira a mousse para um refratário, cubra com plástico filme ou tampa e leve à geladeira por cerca de 2 horas",
+        "Agora é só servir gelado. Bom apetite!"
+    ],
+    "thumbnail": "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate.jpeg",
+    "imagens-url": [
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-01-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-02-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-03-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-04-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-05-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-06-730x548.jpeg",
+        "https://www.receiteria.com.br/wp-content/uploads/mousse-de-chocolate-07-730x548.jpeg"
     ]
     }
 ]
