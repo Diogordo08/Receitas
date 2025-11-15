@@ -4,6 +4,7 @@ Um site simples e acolhedor para exibir receitas caseiras, feito com HTML, CSS e
 ## Funcionalidades:
 Página de receita com ingredientes e passo a passo <br>
 Site totalmente responsivo adaptado para telas menores e celulares <br>
+Pesquisar receitas por titulo ou ingredientes (tags) <br>
 Dados carregados via JSON: <br>
 - O PHP lê o arquivo JSON.  
 - Converte o conteúdo em um array associativo.  
