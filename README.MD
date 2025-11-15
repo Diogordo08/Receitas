@@ -1,5 +1,4 @@
 # Receitas da Vovó 👵 :
-
 Um site simples e acolhedor para exibir receitas caseiras, feito com HTML, CSS e PHP.
 
 ## Funcionalidades:
@@ -9,7 +8,7 @@ Dados carregados via JSON
 Site totalmente responsivo
 
 ##  Como instalar e rodar
-1. Baixe ou clone o repositório
+1. Baixe ou clone o repositório (https://github.com/Diogordo08/Receitas)
 2. Abra o projeto no seu servidor local (XAMPP, WAMP etc...)
 3. Acesse no navegador: http://localhost/pasta-do-projeto (Pasta padrão: Receitas)
 
