@@ -8,9 +8,11 @@ Página de receita com ingredientes e passo a passo
 Dados carregados via JSON
 Site totalmente responsivo
 
-## Como rodar:
-Basta colocar os arquivos em um servidor local (XAMPP, WAMP, PhpMyAdmin) e acessar:
-http://localhost/receitas
+##  Como instalar e rodar
+1. Baixe ou clone o repositório
+2. Abra o projeto no seu servidor local (XAMPP, WAMP etc...)
+3. Acesse no navegador:
+http://localhost/pasta-do-projeto (Pasta padrão: Receitas)
 
 ## Tecnologias:
 - HTML
@@ -30,4 +32,4 @@ http://localhost/receitas
 }
 
 ## Desenvolvido por:
-Diogo A. Leite
+Diogo A. C. Leite
