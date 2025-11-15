@@ -4,9 +4,9 @@ Um site simples e acolhedor para exibir receitas caseiras, feito com HTML, CSS e
 ## Funcionalidades:
 Página de receita com ingredientes e passo a passo <br>
 Dados carregados via JSON: <br>
-- O PHP lê o arquivo JSON.
-- Converte o conteúdo em um array associativo.
-- Utiliza foreach para renderizar automaticamente cada parte da receita.
+- O PHP lê o arquivo JSON.  
+- Converte o conteúdo em um array associativo.  
+- Utiliza foreach para renderizar automaticamente cada parte da receita.  
 Site totalmente responsivo adaptado para telas menores e celulares <br>
 
 ##  Como instalar e rodar
