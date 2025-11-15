@@ -30,4 +30,4 @@ http://localhost/receitas
 }
 
 ## Desenvolvido por:
-Diogo A. Leite
+Diogo A. C. Leite
