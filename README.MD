@@ -2,10 +2,10 @@
 Um site simples e acolhedor para exibir receitas caseiras, feito com HTML, CSS e PHP.
 
 ## Funcionalidades:
-Cards de receitas
-Página de receita com ingredientes e passo a passo
-Dados carregados via JSON
-Site totalmente responsivo
+Cards de receitas <br>
+Página de receita com ingredientes e passo a passo <br>
+Dados carregados via JSON <br>
+Site totalmente responsivo <br>
 
 ##  Como instalar e rodar
 1. Baixe ou clone o repositório (https://github.com/Diogordo08/Receitas)
