@@ -148,7 +148,8 @@ main p{
 
 #copy{
     margin-top: 5px;
-    margin-left: 3px;
+    margin-left: 1rem;
+    font-weight: bold;
 }
 
 .banner {

@@ -98,6 +98,6 @@
     }
     ?>
 
-    <p id="copy">&copy; 2025 Receitas da Vovó — Desenvolvido por Diogo A. Leite.</p>
+    <p id="copy">&copy; 2025 Receitas da Vovó — Desenvolvido por Diogo A. C. Leite.</p>
 </body>
 </html>
